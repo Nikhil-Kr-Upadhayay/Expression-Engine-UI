@@ -1,3 +1,11 @@
+# User Interface
+
+![Screenshot 2024-01-26 160534](https://github.com/Nikhil-Kr-Upadhayay/Expression-Engine-UI/assets/135442033/ed6c4c44-ae35-4594-8811-02a2e8e64e4d)
+![Screenshot 2024-01-26 160723](https://github.com/Nikhil-Kr-Upadhayay/Expression-Engine-UI/assets/135442033/ce76c3bc-0d1f-43ad-aed7-c466d232520f)
+
+# Output
+![Screenshot 2024-01-26 160808](https://github.com/Nikhil-Kr-Upadhayay/Expression-Engine-UI/assets/135442033/972a749f-d561-4c5c-80a1-9eef93b9b258)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
